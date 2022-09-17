@@ -1,0 +1,22 @@
+*{
+    font-family: Verdana
+}
+
+body,
+html{
+    background-color: rosybrown;
+}
+
+.centro{
+    display:grid;
+    place-items:center;
+}
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  Button{
+    Background-color: Gainsboro;
+    }
